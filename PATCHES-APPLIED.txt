@@ -1,0 +1,4 @@
+Net-monit V12.0 (full release)
+
+This release already contains everything from V11.3 patches 01-08 (apply-to scopes, faster saving, custom dashboard views, license entry in Settings, filters, false-offline fix, etc.).
+No patches are applied on top of V12.0 yet.
