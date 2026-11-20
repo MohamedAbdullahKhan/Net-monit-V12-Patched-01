@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+data/monitor.db
+data/monitor.db-*
+.venv/
+
+# never publish these (vendor-only / local secrets)
+license_private_key.pem
+*.pem
+*.retired
+.env
+data/FIRST-RUN-ADMIN-TOKEN.txt
+data/secret.key
+logs/
+venv/
+
+# patch tool backups
+patch_backups/
+.patch_backups/
+PATCHES-APPLIED.txt
